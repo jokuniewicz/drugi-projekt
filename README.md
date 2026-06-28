@@ -1,1 +1,1 @@
-# drugi-projekt
+# drugi-projektKlonowanie przez SSH działa jak natura chciała!
